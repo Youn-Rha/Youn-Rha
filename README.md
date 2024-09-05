@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youn-Rha&show_icons=true&theme=dark)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ry0218)](https://solved.ac/ry0218) <img src="http://mazandi.herokuapp.com/api?handle=ry0218&theme=cold"/>
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ry0218)](https://solved.ac/ry0218) <img src="http://mazandi.herokuapp.com/api?handle=ry0218&theme=cold"/>
 <!--
 **Youn-Rha/Youn-Rha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
