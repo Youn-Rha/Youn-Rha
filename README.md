@@ -2,7 +2,7 @@
 
 [![Youn's GitHub stats](http://ry-home.iptime.org:218/api?username=Youn-Rha&show_icons=true)](https://github.com/Youn-Rha/github-readme-stats)
 
-![Top Langs](https://ry-home.iptime.org:218/api/top-langs/?username=Youn-Rha&layout=compact)
+![Top Langs](http://ry-home.iptime.org:218/api/top-langs/?username=Youn-Rha&layout=compact)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ry0218)](https://solved.ac/ry0218) <img src="http://mazandi.herokuapp.com/api?handle=ry0218&theme=cold"/>
