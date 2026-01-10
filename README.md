@@ -30,7 +30,7 @@
     <tr>
       <td style="border: 0;">
         <img
-          src="http://ry-home.iptime.org:218/api?username=Youn-Rha&show_icons=true&include_all_commits=true&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long&rank_icon=percentile&show=prs_merged,prs_merged_percentage#gh-dark-mode-only"
+          src="http://ry-home.iptime.org:218/api?username=Youn-Rha&show_icons=true&include_all_commits=true&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long&show=prs_merged,prs_merged_percentage#gh-dark-mode-only"
           alt="My Github stats"
           height="300"
         />
